@@ -1,19 +1,25 @@
 <h1 align="center">Hi 👋, I'm A S LOGESHWARAN</h1>
-<h3 align="center">A seasoned software testing trainer with expertise in both manual and automation testing.</h3>
-<h3 align="left">
-👋 Hello, Fellow Testers!</h3>
-<h3 align="left">
-🎓 Experience and Expertise: With over 4 years of hands-on experience in both manual and automation testing, I have transitioned into training to share my expertise with aspiring testers and seasoned professionals.</h3>
-<h3 align="left">
-🔍 Training Philosophy: My approach to training revolves around empowering individuals with practical skills and best practices in software testing. Whether you are mastering manual testing techniques or delving into automation frameworks, my goal is to provide engaging and comprehensive learning experiences.</h3>
-<h3 align="left">
-🤖 Automation Advocacy: Proficient in a variety of automation tools and frameworks, including Selenium Webdriver, TestNG Framework, POM, BDD Cucumber, I emphasize the importance of leveraging automation to enhance efficiency and effectiveness in testing without sacrificing quality.</h3>
-<h3 align="left">
-📈 Staying Ahead of the Curve: In an ever-evolving landscape of software development and testing, I continuously update my training content to align with the latest industry trends and methodologies.</h3>
-<h3 align="left">
-🌱 Embracing Innovation: Currently, I am exploring API Testing and Performance Testing, and I am excited about collaborating with individuals and organizations to tailor training programs to meet their unique needs and goals.</h3>
-<h3 align="left">
-So, let's learn, grow, and test together! 🚀</h3>
+<h3 align="center">Experienced Software Testing Trainer with Skills in Both Manual and Automation Testing</h3>
+
+<h3 align="left">👋 Hello, Fellow Testers!</h3>
+
+<h3 align="left">🎓 My Experience</h3>
+<p>I have over 4 years of hands-on experience in both manual and automation testing. Now, I focus on training others—whether you’re new to testing or already experienced.</p>
+
+<h3 align="left">🔍 My Training Approach</h3>
+<p>I believe in teaching practical skills and best practices in software testing. Whether you’re learning manual testing or getting into automation, my goal is to make the learning experience easy to understand and useful.</p>
+
+<h3 align="left">🤖 Automation Skills</h3>
+<p>I’m skilled in several automation tools and frameworks, including Selenium WebDriver, TestNG, POM, and BDD with Cucumber. I encourage using automation to make testing faster and more effective without losing quality.</p>
+
+<h3 align="left">📈 Staying Updated</h3>
+<p>Software testing is always changing, so I make sure my training materials are up-to-date with the latest trends and tools in the industry.</p>
+
+<h3 align="left">🌱 Exploring New Areas</h3>
+<p>I’m currently learning about API Testing and Performance Testing. I’m excited to work with others to create training programs that meet their specific needs.</p>
+
+<h3 align="left">🚀 Let’s learn and grow together!</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aslogeshwaran&label=Profile%20views&color=0e75b6&style=flat" alt="aslogeshwaran" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aslogeshwaran" alt="aslogeshwaran" /></a> </p>
